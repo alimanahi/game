@@ -1,0 +1,6 @@
+{
+  "name": "کارآگاه شایعه | Fake News Detective",
+  "description": "بازی معمایی و سرگرم‌کننده کارآگاه شایعه: حقیقت را از شایعه تشخیص بده و استاد حقیقت شو!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+{
+  "appId": "com.fakenews.detective",
+  "appName": "کارآگاه شایعه",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#070b16"
+  }
+}
